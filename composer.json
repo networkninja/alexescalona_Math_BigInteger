@@ -9,7 +9,7 @@
         "bcmath",
         "gmp"
     ],
-    "homepage": "https://github.com/pear/Math_BigInteger",
+    "homepage": "https://github.com/networkninja/alexescalona_Math_BigInteger",
     "license": "MIT",
     "authors": [
         {
@@ -35,6 +35,6 @@
     ],
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Math_BigInteger",
-        "source": "https://github.com/pear/Math_BigInteger"
+        "source": "https://github.com/networkninja/alexescalona_Math_BigInteger"
     }
 }
